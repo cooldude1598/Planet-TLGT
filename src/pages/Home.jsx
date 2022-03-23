@@ -19,6 +19,7 @@ function Home() {
         {/*  Page sections */}
         <HeroHome />
         <About />
+        <Roadmap2 />
         <Mintblock />
         <Testimonials />
         <Faqs />
