@@ -1,4 +1,5 @@
 import React from 'react';
+import Roadmap2 from '../partials/Roadmap2';
 
 import HeroHome from '../partials/HeroHome';
 import Faqs from '../partials/faqs';
