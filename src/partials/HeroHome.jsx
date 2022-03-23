@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { NavLink } from 'react-router-dom';
 
 
 function HeroHome() {
@@ -58,9 +59,9 @@ function HeroHome() {
                 </div>
 
                 <div>
-                  <a className="btn text-white bg-teal-600 hover:bg-green-800 w-full mb-4 sm:w-auto sm:mb-0" href="https://discord.gg/3RZHubXjJK">Join Discord</a>
-                  <a className="btn text-white bg-teal-600 hover:bg-green-800 w-full sm:w-auto sm:ml-4" href="./Roadmap">Roadmap</a>
-                  <a className="btn text-white bg-teal-600 hover:bg-green-800 w-full sm:w-auto sm:ml-4" href="./Mint">Mint</a>
+                  <NavLink className="btn text-white bg-teal-600 hover:bg-green-800 w-full mb-4 sm:w-auto sm:mb-0" href="https://discord.gg/3RZHubXjJK">Join Discord</NavLink>
+                  <NavLink className="btn text-white bg-teal-600 hover:bg-green-800 w-full sm:w-auto sm:ml-4" href="./Roadmap">Roadmap</NavLink>
+                  <NavLink className="btn text-white bg-teal-600 hover:bg-green-800 w-full sm:w-auto sm:ml-4" href="./Mint">Mint</NavLink>
                 </div>
               </div>
 
