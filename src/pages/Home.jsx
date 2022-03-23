@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 
 import HeroHome from '../partials/HeroHome';
 import Faqs from '../partials/faqs';

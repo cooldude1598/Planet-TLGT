@@ -4,11 +4,8 @@ import {
   Route,
   useLocation
 } from 'react-router-dom';
-
 import './css/style.scss';
-
 import AOS from 'aos';
-
 import Home from './pages/Home';
 import Roadmap from './pages/Roadmap';
 import Mint from './pages/Mint';
