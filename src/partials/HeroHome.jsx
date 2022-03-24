@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { Link } from 'react-router-dom';
 
 
 function HeroHome() {
@@ -59,6 +60,17 @@ function HeroHome() {
 
                 <div>
                   <a className="btn text-white bg-teal-600 hover:bg-green-800 w-full mb-4 sm:w-auto sm:mb-0" href="https://discord.gg/3RZHubXjJK">Join Discord</a>
+                  <a className="btn text-white bg-teal-600 hover:bg-green-800 w-full m-4 mb-4 sm:w-auto sm:mb-0" >
+                    <li>
+                      <Link to="/Roadmap">Roadmap</Link>
+                    </li>
+                  </a>
+                  <a className="btn text-white bg-teal-600 hover:bg-green-800 w-full mb-4 sm:w-auto sm:mb-0" >
+                    <li>
+                      <Link to="/Mint">Mint Page</Link>
+                    </li>
+                  </a>
+
                 </div>
               </div>
 
