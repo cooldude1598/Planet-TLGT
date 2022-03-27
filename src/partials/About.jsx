@@ -21,7 +21,7 @@ function About() {
           </h2>
           <p class="text-xl mt-1 px-4 pt-4 text-gray-500">Planet TLGT is on a mission to provide <span className="bg-clip-text text-gray-800">Secure, Organic & Luxury</span> lifestyle to its hodlers. Security of privacy, Organic for Health and Luxury of standard of living.</p>
           <p class="text-xl mt-2 px-4 text-gray-500">With a revolutionary <span className="bg-clip-text text-gray-800">Physical-Virtual Home</span> concept, we are creating a <span className="bg-clip-text text-gray-800">TLGT Village</span> with high standards of living at minimal cost, for which TLGT-Fam will have lifetime free access.</p>
-          <p class="text-xl mt-2 px-4 text-gray-500">Our revolutionary & transparent <span className="bg-clip-text text-gray-800">D2E</span> earning mechanism will create endless possibilities of earning huge money like never before.</p>
+          <p class="text-xl mt-2 px-4 text-gray-500">Our revolutionary & transparent <span className="bg-clip-text text-gray-800">TLGT</span> earning mechanism will create endless possibilities of earning huge money like never before.</p>
           <p class="text-xl mt-2 px-4 text-gray-500">A <span className="bg-clip-text text-gray-800">Free, Secure, Private and Decentralised VPN (DPN)</span> for the TLGT-Fam with which we can assure that our virtual privacy is completely safe.</p>
 
         </div>
