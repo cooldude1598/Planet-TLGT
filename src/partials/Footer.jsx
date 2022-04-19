@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import TestimonialImage from '../images/2469.png';
+import TestimonialImage from '../images/3085.png';
 import discordlogo from '../images/discord.png';
 import twitterlogo from '../images/twitter.png';
 import instalogo from '../images/instagram.png';
