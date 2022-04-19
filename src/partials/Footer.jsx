@@ -23,6 +23,9 @@ function Footer() {
               <Link to="/" className="block" aria-label="logo">
                 <img className="relative rounded-full" src={TestimonialImage} width='52' height="52" alt="Testimonial 01" />
               </Link>
+              <li className="mb-2">
+                <Link to="#" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">We use Google Analytics. No private data is collected, stored or sold.</Link>
+              </li>
             </div>
           </div>
 
