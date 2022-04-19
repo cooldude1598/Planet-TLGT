@@ -993,6 +993,7 @@ function Roadmap2() {
                     <p className=" font-bold text-gray-700"></p>
                     <p className="mt-2 text-gray-600 mb-1">Time period of the 3 levels of difficulties are 7 days, 30 days and 90/90+ days.</p>
                     <p className="mt-2 text-gray-600 mb-10">* IRL visits will be for Primes only, by community voting (May bring an additional partner).</p>
+                    <p className="mt-2 text-gray-600 mb-1">For more info, See the roadmap attached to the link below.</p>
                   </div>
                   <div className="w-full h-1 ml-auto duration-300 origin-left transform scale-x-0 bg-deep-purple-accent-400 group-hover:scale-x-100" />
                 </div>
