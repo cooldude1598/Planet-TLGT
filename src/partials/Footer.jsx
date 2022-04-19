@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import TestimonialImage from '../images/3085.png';
+import TestimonialImage from '../images/2469.png';
 import discordlogo from '../images/discord.png';
 import twitterlogo from '../images/twitter.png';
 import instalogo from '../images/instagram.png';
@@ -23,9 +23,18 @@ function Footer() {
               <Link to="/" className="block" aria-label="logo">
                 <img className="relative rounded-full" src={TestimonialImage} width='52' height="52" alt="Testimonial 01" />
               </Link>
-              <li className="mb-2">
-                <Link to="#" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">We use Google Analytics. No private data is collected, stored or sold.</Link>
-              </li>
+              <div>
+                <div>
+                  <a className="mb-2">
+                    <a to="#" className="text-sm text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out"> </a>
+                  </a>
+                </div>
+                <div>
+                  <a className="mb-2">
+                    <a to="#" className="text-sm text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out">We use Google Analytics. No private data is collected, stored or sold.</a>
+                  </a>
+                </div>
+              </div>
             </div>
           </div>
 

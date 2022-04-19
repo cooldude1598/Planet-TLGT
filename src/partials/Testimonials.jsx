@@ -1,5 +1,5 @@
 import React from 'react';
-import RedTree from '../images/42.png';
+import RedTree from '../images/2469.png';
 
 function Team() {
   return (
