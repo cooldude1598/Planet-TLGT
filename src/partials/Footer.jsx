@@ -63,7 +63,7 @@ function Footer() {
             <h6 className="text-gray-800 font-medium mb-2">Resources</h6>
             <ul className="text-sm">
               <li className="mb-2">
-                <a className="text-gray-600 hover:text-blue-900 transition duration-150 ease-in-out" href="https://gateway.pinata.cloud/ipfs/QmbvR989hV3C4AfkFBj2YYdPsdtktcuu3Z2KhkfSRrLvpY">Roadmap Download</a>
+                <a className="text-gray-600 hover:text-blue-900 transition duration-150 ease-in-out" href="https://drive.google.com/drive/folders/1m79obm3vq6ErohFvUzj73wbcoA7nsJBQ?usp=sharing">Roadmap Download</a>
               </li>
               <li className="mb-2">
                 <Link to="#" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out"></Link>

@@ -39,7 +39,7 @@ function Mint() {
               </p>
             </div>
             <div className="flex items-center sm:justify-center">
-              <a className="btn text-white bg-teal-600 hover:bg-green-800 w-full sm:w-auto sm:ml-4" href="/Mint">Minting Starts Soon</a>
+              <a className="btn text-white bg-teal-600 hover:bg-green-800 w-full sm:w-auto sm:ml-4" href="/">Minting Starts Soon</a>
 
             </div>
           </div>
