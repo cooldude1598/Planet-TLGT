@@ -408,9 +408,9 @@ function Roadmap2() {
                       />
                     </svg>
                   </div>
-                  <p className="mb-2 font-bold">TLGT Saving Earth Rewards<span className="bg-clip-text text-xs ml-2 text-gray-400">Hard</span> </p>
+                  <p className="mb-2 font-bold">TLGT  Revolution<span className="bg-clip-text text-xs ml-2 text-gray-400">Hard</span> </p>
                   <p className="text-sm leading-5 text-gray-900">
-                    A new & Revolutionary smart D2E mechanism will be launched that will reward users for Saving the Earth.</p>
+                    A new & Revolutionary smart mechanism will be launched to revolutionise P2E gaming and healthy lifestyle..</p>
                 </div>
                 <div className="w-full h-1 ml-auto duration-300 origin-left transform scale-x-0 bg-deep-purple-accent-400 group-hover:scale-x-100" />
               </div>
@@ -849,9 +849,9 @@ function Roadmap2() {
                       />
                     </svg>
                   </div>
-                  <p className="mb-2 font-bold">Member perks<span className="bg-clip-text text-xs ml-2 text-gray-400">Awesome</span></p>
+                  <p className="mb-2 font-bold">TLGT VPN<span className="bg-clip-text text-xs ml-2 text-gray-400">Hard</span></p>
                   <p className="text-sm leading-5 text-gray-900">
-                    Quite special and daily use utility with enterprise security for the community. (More details on Pvt Roadmap)
+                    A decentralised, private, secure, fast and free vpn for each and every member of Planet TLGT.
                   </p>
                 </div>
                 <div className="w-full h-1 ml-auto duration-300 origin-left transform scale-x-0 bg-deep-purple-accent-400 group-hover:scale-x-100" />

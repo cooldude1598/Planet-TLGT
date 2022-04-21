@@ -139,11 +139,12 @@ function Footer() {
                 <img className=" w-8 h-8 fill-current " src={instalogo} width="32" height="32" alt="insta" />
               </a>
             </li>
-            <li className="ml-4">
-              <a to="#" className="flex justify-center items-center text-gray-600 hover:text-gray-900 bg-white hover:bg-white-100 rounded-full shadow transition duration-150 ease-in-out" href="https://t.me/+a68HYxewtztiODRl" aria-label="Telegram">
+            {/*            <li className="ml-4">
+              <a to="#" className="flex justify-center items-center text-gray-600 hover:text-gray-900 bg-white hover:bg-white-100 rounded-full shadow transition duration-150 ease-in-out" href="" aria-label="Telegram">
                 <img className=" w-8 h-8 fill-current " src={telegram} width="32" height="32" alt="telegram" />
               </a>
             </li>
+  */}
             <li className="ml-4">
               <a to="#" className="flex justify-center items-center text-gray-600 hover:text-gray-900 bg-white hover:bg-white-100 rounded-full shadow transition duration-150 ease-in-out" href="https://twitter.com/Planet_tlgt" aria-label="Twitter">
                 <img className=" w-8 h-8 fill-current " src={twitterlogo} width="32" height="32" alt="twitter" />
@@ -157,7 +158,7 @@ function Footer() {
           </ul>
 
           {/* Copyrights note */}
-          <div className="text-sm text-gray-600 mr-4">Made by <a className="text-blue-600 hover:underline" href="https://twitter.com/TLGTree">The Seeder 🌲</a>.</div>
+          <div className="text-sm text-gray-600 mr-4">Made by <a className="text-blue-600 hover:underline" href="https://twitter.com/Planet-TLGT">The Seeder 🌲</a>.</div>
         </div>
       </div>
     </footer>
