@@ -66,7 +66,7 @@ function Footer() {
                 <a className="text-gray-600 hover:text-blue-900 transition duration-150 ease-in-out" href="https://drive.google.com/drive/folders/1m79obm3vq6ErohFvUzj73wbcoA7nsJBQ?usp=sharing">Roadmap Download</a>
               </li>
               <li className="mb-2">
-                <Link to="#" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out"></Link>
+                <a className="text-gray-600 hover:text-blue-900 transition duration-150 ease-in-out" href="https://forms.gle/q3TKLXnyednZ9PjV9">Contact Us</a>
               </li>
               <li className="mb-2">
                 <Link to="#" className="text-gray-600 hover:text-gray-900 transition duration-150 ease-in-out"></Link>
